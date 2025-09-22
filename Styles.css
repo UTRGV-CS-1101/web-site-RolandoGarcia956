@@ -1,0 +1,27 @@
+h1 {
+    color: rgb(0, 0, 0);
+    font-weight: 100;
+}
+h2{
+    color: rgb(1, 9, 9);
+    font-weight: 100;
+}
+
+a   {
+    color: black;
+    font-weight: 200;
+}
+
+.thisclass {
+    font-size: large;
+    color: rgb(0, 0, 0);
+}
+
+.FunFact{
+    color: coral;
+    font-style: italic;
+}
+
+#special {
+    font-style: inherit;
+}
